@@ -16,7 +16,7 @@ int main(){
     int i=0 ;
     while(i<10){
       if(gpa[i]>= num){
-        cout<< id[i] <<" "<< name[i] <<" " << gpa[i] << "\n" ;}
+        cout << id[i] << " " << name[i] << " " << gpa[i] << "\n" ;}
      i++ ;
     }
 
